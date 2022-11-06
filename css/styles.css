@@ -634,7 +634,8 @@ a {
   justify-content: space-between;
 }
 .footer--container{
-    margin-left: 10px;
+    margin-left: 50px;
+   
 }
 .footer__copy {
   font-weight: 600;
@@ -646,10 +647,12 @@ a {
 }
 .footer__copy .footer {
     display: flex;
-    /* padding-left: 100px; */
+  
 }
 .footer-social__list {
   display: flex;
+  margin-right: -150px;
+  /* justify-content: flex-end;; */
  }
 
 /* * ########### END FOOTER ################ */
