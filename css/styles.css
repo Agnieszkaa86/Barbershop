@@ -530,9 +530,8 @@ a {
  .contact__address {
     padding-top: 30px;
     margin-bottom: 70px;
-}
- 
- .contact__form {
+}  
+.contact__form {
     width: 560px;
     display: flex;
     flex-wrap: wrap;
@@ -595,8 +594,8 @@ a {
     color: #9DA4BD;
  }
  .contact__address .undertitle {
-    /* margin-left: 100px; */
-    /* color:#FFFFFF; */
+    margin-left: 100px; 
+    color:#FFFFFF;
  }
 .contact__list {
     list-style: none;
