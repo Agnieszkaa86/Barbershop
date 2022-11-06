@@ -652,7 +652,7 @@ a {
 .footer-social__list {
   display: flex;
   margin-right: -150px;
-  /* justify-content: flex-end;; */
+
  }
 
 /* * ########### END FOOTER ################ */
