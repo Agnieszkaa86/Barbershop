@@ -513,15 +513,19 @@ a {
 }
 .contact__right-side {
   width: 50%;
-  background-image: url(../images/Bg\\(1\).png);
+  background-image: url(../images/Bg\ \(1\).png);
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #191c26;
   padding-left: 115px;
 }
+
 .contact__address {
   padding-top: 30px;
   margin-bottom: 70px;
+}
+.contact__list {
+    margin-left: 40px;
 }
 .contact__form {
   width: 560px;
@@ -638,7 +642,7 @@ a {
   line-height: 1.364;
   letter-spacing: 0.02em;
   color: #9da4bd;
-  /* padding-left: 20px; */
+   /* padding-left: 20px;  */
 }
 /* .footer__copy .container {
   margin-left: 55px;
