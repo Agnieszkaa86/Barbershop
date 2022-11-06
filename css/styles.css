@@ -523,9 +523,7 @@ a {
 .contact__address {
   padding-top: 30px;
   margin-bottom: 70px;
-}
-.contact__list {
-    margin-left: 40px;
+  margin-left: 40px;
 }
 .contact__form {
   width: 560px;
@@ -642,7 +640,7 @@ a {
   line-height: 1.364;
   letter-spacing: 0.02em;
   color: #9da4bd;
-   /* padding-left: 20px;  */
+  padding-left: 20px; 
 }
 /* .footer__copy .container {
   margin-left: 55px;
