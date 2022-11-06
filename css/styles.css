@@ -512,8 +512,6 @@ a {
 }
  .contact__left-side {
     width: 50%; 
-    /* margin-left: 10px;  */
-    /* margin-right: 25px; */
     background-color:  #191C26;
     background-size: cover;
     padding-left: 56px;
@@ -527,12 +525,13 @@ a {
 	background-size: cover;
     background-color:  #191C26;
     padding-left: 115px;
-	/* padding-top: 130px; */
 	
  } 
  .contact__address {
     padding-top: 30px;
- }
+    margin-bottom: 70px;
+}
+ 
  .contact__form {
     width: 560px;
     display: flex;
@@ -559,9 +558,7 @@ a {
  .contact__list {
     margin-left: 40px;
  }
- .contact__address {
-     margin-bottom: 70px;
-}
+
 .contact__time {
     margin-top: 20px;
 	padding-bottom: 130px;
@@ -601,7 +598,7 @@ a {
     color: #9DA4BD;
  }
  .contact__address .undertitle {
-    margin-left: 100px;
+    /* margin-left: 100px; */
     color:#FFFFFF;
  }
 .contact__list {
