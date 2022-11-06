@@ -632,7 +632,9 @@ a {
 .footer .container {
   display: flex;
   justify-content: space-between;
-
+}
+.footer--container{
+    margin-left: 10px;
 }
 .footer__copy {
   font-weight: 600;
@@ -640,15 +642,15 @@ a {
   line-height: 1.364;
   letter-spacing: 0.02em;
   color: #9da4bd;
-  padding-left: 20px; 
+
 }
-/* .footer__copy .container {
-  margin-left: 55px;
-  display: flex;
-} */
+.footer__copy .footer {
+    display: flex;
+    /* padding-left: 100px; */
+}
 .footer-social__list {
   display: flex;
-}
+ }
 
 /* * ########### END FOOTER ################ */
 /* ########### BACKDROP ################ */
